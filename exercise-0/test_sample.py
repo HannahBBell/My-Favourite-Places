@@ -5,10 +5,10 @@ def add_five(n):
     return n + 5
 
 def double(n):
-    return n * n
+    return n * 2
 
 def test_add_one():
-    assert add_one(11) == 10
+    assert add_one(11) == 12
 
 def test_add_five():
     assert add_five(11) == 16
