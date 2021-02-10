@@ -43,7 +43,7 @@ function App() {
       />
       <FavouritePlace
         IntroTitle = ""
-        title = "Cloud Gate"
+        title = "The Hague"
         area = "The Netherlands"
         city = "Den Haag"
         location = "https://goo.gl/maps/aamzeRZEfG8iv7A79"

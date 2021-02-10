@@ -14,7 +14,7 @@ function FavouritePlace(place: placestuff){
     return (
         <div className="favourite-places-pictures">
             <h2>{IntroTitle}</h2>
-            <img>src = {MainImage} alt = {Desc}</img>
+            <img src = {MainImage} alt = {Desc}/>
             <h2>{title.toUpperCase()}</h2>
             <h3>{area}, {city}, {<a href = {location}>here!</a>}</h3>
             <p>
